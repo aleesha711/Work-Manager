@@ -1,2 +1,4 @@
 # Work-Manager
-Tutorial : https://medium.com/@aleesha/how-workmanager-in-android-is-awesome-21fb6c3d1be2
+Simplest implementation of JetPack Architectural component WorkManager. In this example the app is sending just a notification includes various techniques. 
+
+Read tutorial for detail.
